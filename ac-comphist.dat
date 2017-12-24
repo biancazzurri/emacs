@@ -1,0 +1,1522 @@
+((("body->byte-array" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("-" .
+   [1])
+  ("calculated-data" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  (">" .
+   [1])
+  ("out-of-scale-buildings-floors" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0])
+  ("out-of-scale?" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("out" .
+   [1 0 0])
+  ("#" .
+   [1])
+  ("out-of-scale-buildings" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("out-of-scale-boundary" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  (":out-of-scale-boundary" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("fmap" .
+   [1 0 0 0])
+  ("floors" .
+   [18 0 0 0 0 0])
+  (":floors" .
+   [5 0 0 0 2 0 0])
+  ("1.75" .
+   [2 0 0 0])
+  (":current-min" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("sort-5" .
+   [2 0 0 0 0 0])
+  ("collect-data-helper" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("collect-data" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  (":in" .
+   [2 0 0])
+  (":col/m/geometry" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":col/location" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pluto-with-borough" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":units-res" .
+   [2 0 0 0 0 0 1 0 0 0])
+  (":geo/contain" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  (":and" .
+   [3 0 0 0])
+  ("dbp/id" .
+   [0 0 0 0 1 0])
+  ("pluto/id" .
+   [3 0 0 0 0 0 0 0])
+  (":jobs" .
+   [1 0 0 0 0])
+  ("permits" .
+   [3 0 0 0 0 0 0])
+  ("handle-permit" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("const" .
+   [1 0 0 0 0])
+  ("acc" .
+   [13 0 0])
+  ("after-pluto" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("pluto-date" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("pluto-data" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("tc/from-date" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("fpid" .
+   [3 0 0 0])
+  ("request-context" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tracker" .
+   [2 0 0 0 0 0 0])
+  ("nbm/mail-group" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":mail-unsubsribe" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
+  ("import-source" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("import-data!" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("import-data" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("fields-schema" .
+   [1 0 0 0 0 0 0 0 1 1 0 0 0])
+  (":boro_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("MultiPolygon" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  (":geometry" .
+   [6 0 0 0 0 0 0 0 0])
+  ("bldgno1" .
+   [1 0 0 0 0 0 0])
+  ("bldgno2" .
+   [1 0 0 0 0 0 0])
+  ("street2" .
+   [2 0 0 0 0 0 0])
+  ("geometries" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("from" .
+   [1 0 0 0])
+  (":lon" .
+   [2 0 0 0])
+  (":lat" .
+   [3 0 0 0])
+  ("process-geometry" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("LOT" .
+   [1 0 0])
+  ("BLOCK" .
+   [1 0 0 0 0])
+  ("borough-id" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":borocode" .
+   [1 0 0 0 0 0 0 0 0])
+  ("neighbourhood" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("city" .
+   [1 0 0 0])
+  ("->bbl" .
+   [1 0 0 0 0])
+  (":optional" .
+   [6 0 0 0 0 0 0 0 0])
+  (":bbl" .
+   [6 0 0 0])
+  ("coercer" .
+   [2 0 0 0 0 0 0])
+  ("dql" .
+   [2 0 0])
+  ("transformations" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ds-fields" .
+   [2 0 0 0 0 0 0 0 0])
+  (":fields" .
+   [5 0 0 0 0 0 0])
+  ("transform" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Polygon" .
+   [4 0 0 0 0 0 0])
+  (":get-addresses" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("address-provider" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":store-addresses!" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("get-addresses" .
+   [2 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("this" .
+   [5 0 0 0])
+  ("store-addresses!" .
+   [1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  (":late-night-options" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":h-no" .
+   [4 0 0 0 1])
+  ("house-number-compare*" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("%2" .
+   [1 0])
+  ("house-number-compare" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("y2" .
+   [2 0])
+  ("y1" .
+   [2 0])
+  ("h-no->vec" .
+   [1 0 0 0 0 0 1 0 0])
+  ("hyphenated" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("x2" .
+   [2 0])
+  ("x1" .
+   [2 0])
+  (":st-name" .
+   [3 0 0 0 0 0 0 0])
+  ("boroughs" .
+   [2 0 0 0 0 0 0 0])
+  (":borough" .
+   [4 0 0 0 0 0 0 0])
+  ("diff" .
+   [2 0 0 0])
+  ("high" .
+   [5 0 0 0])
+  ("low" .
+   [9 0 0])
+  ("houses" .
+   [3 0 0 0 0 0])
+  ("possible-hyphen" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("distinct-by" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  (":col/st-name" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  (":=" .
+   [8 0])
+  ("demo?" .
+   [5 0 0 0 0])
+  ("demo" .
+   [1 0 0 0])
+  ("non-excluded" .
+   [1 0 0 0 0 0 3 0 0 0 0 0])
+  ("all-categories" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":category" .
+   [1 0 0 0 0 0 0 0 0])
+  ("make-demo-category" .
+   [0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0])
+  ("category" .
+   [6 0 0 0 1 0 0 0])
+  ("is-demo" .
+   [5 0 0 0 0 0 0])
+  ("is_demo" .
+   [1 0 0 0 0 0 0])
+  ("s/Bool" .
+   [3 0 0 0 0 0])
+  (":-" .
+   [3 0])
+  ("is" .
+   [3 0])
+  (":geocoder-res" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("geocoder-res" .
+   [1 0 0 0 0 0 0 0 0 1 0 0])
+  ("madlan-search" .
+   [1 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("sales-by-geometry" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("sales-per-street" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("street->sales-count" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("street-manager" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("obj" .
+   [1 0 0])
+  ("found-addresses" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("results" .
+   [4 0 0 0 0 0 0])
+  ("found-streets" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("found" .
+   [2 0 0 0 0])
+  ("best-suggestion" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("combined-suggest-query" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("settlement-sug" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("street-sug" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("street-sugg" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("msearch-with-callback" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":standard" .
+   [2 0 0 0 0 0 0 0 0])
+  ("remove-punctuation" .
+   [0 0 0 0 0 0 0 0 0 2 2 2 0 0 0 0 0 0])
+  ("into-msearch" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("suggest-query" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("geocode?" .
+   [5 0 0 0 0 0 0 0])
+  ("to-index" .
+   [1 0 0 0 0 0 0 0])
+  ("d" .
+   [5])
+  (":doc" .
+   [5 0 0 0])
+  ("partitioned" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("_source" .
+   [2 0 0 0 0 0 0])
+  (":hits" .
+   [7 0 0 0 0])
+  ("_" .
+   [1])
+  ("to-update" .
+   [3 0 0 0 0 0 0 0 0])
+  ("text->id" .
+   [2 0 0 0 0 0 0 0])
+  ("existing-items" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("new-items" .
+   [4 0 0 0 0 0 0 0 0])
+  ("item-exists?" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("to" .
+   [1 0])
+  ("parse-single-msearch-result" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":suggest_tag" .
+   [1 0 0 1 0 0 0 0 0 0 0 0])
+  ("elastic-path" .
+   [5 0 0 0 0 0 0 0 1 0 0 0])
+  ("params" .
+   [3 0 0 0 0 0])
+  ("text->item" .
+   [1 0 0 0 0 1 0 0 0 0])
+  (":tag" .
+   [1 0 0 0])
+  (":data" .
+   [3 0 0 0 0])
+  ("clojure.core.async" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("chunks" .
+   [3 0 0 0 0 0])
+  (">!" .
+   [1 0])
+  ("wait?" .
+   [1 0 0 0 0])
+  ("w" .
+   [3])
+  ("<!!" .
+   [5 0 0])
+  (">!!" .
+   [4 0 0])
+  ("chan" .
+   [4 0 0 0])
+  ("channel" .
+   [19 0 0 0 0 0 0])
+  ("msearch-path" .
+   [5 0 0 0 0 0 0 0 0 0 0 0])
+  ("m" .
+   [2])
+  ("MadlanIntegrationLevel" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Developer" .
+   [1 0 0 0 0 0 0 0 0])
+  ("HashMap" .
+   [1 0 0 0 1 0 0])
+  ("tama-neighs" .
+   [0 0 0 0 0 0 0 2 0 0 0])
+  ("all-neighs" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("neighs" .
+   [2 0 0 0 0 0])
+  ("developer" .
+   [1 0 0 0 0 0 0 0 0])
+  (":default" .
+   [3 0 0 0 0 0 0 0])
+  ("projects-num" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  (".integrationLevel" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("dev-manager" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("suggestion-id" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("unify-suggestions-by-id" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("unify-suggestions" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("keyword-suggestions" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("main-suggestions" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("main" .
+   [2 0 0 0])
+  ("parse-func" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (".keywords" .
+   [1 0 0 0 0 0 0 0 0])
+  ("additional-suggestions" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("parse-item" .
+   [2 0 0 0 0 0 0 0 0 1])
+  ("item" .
+   [7 0 0 0])
+  ("p" .
+   [9])
+  ("partial" .
+   [0 0 0 0 0 1 0])
+  ("res-manager" .
+   [3 0 0 0 1 0 0 0 0 0 0])
+  ("keywords" .
+   [4 0 0 0 0 0 0 0])
+  (".info" .
+   [2 0 0 0 0])
+  (":text" .
+   [17 0 0 0 0])
+  (".isPromoted" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("suggestion-data*" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("priority" .
+   [1 0 0 0 1 0 0 0])
+  (":priority" .
+   [1 0 0 0 0 1 0 1 0])
+  ("id" .
+   [32 0])
+  ("tama" .
+   [2 0 0 0])
+  ("tama?" .
+   [13 0 0 0 0])
+  ("tama-developers" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("all-developers" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("add-tama" .
+   [5 0 0 0 0 0 0 0])
+  (":tama" .
+   [2 0 0 0 0])
+  ("all" .
+   [1 0 0])
+  ("tama-projects" .
+   [0 0 0 0 0 3 0 0 1 0 0 0 0])
+  ("all-projects" .
+   [1 0 0 0 0 1 1 0 0 0 0 0])
+  ("clojure.set/difference" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("parse-items" .
+   [5 0 0 0 0 0 0 0 0 0 0])
+  ("items" .
+   [4 0 0 0 0])
+  ("ResidenceProjectsManager" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("by-id" .
+   [1 0 0 0 0])
+  (":options" .
+   [4 0 0 0 0 0 0 0])
+  ("madlan2.israel-server.autocomplete" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("routes" .
+   [0 0 0 1 0 0])
+  ("cheshire/parse-string" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("options" .
+   [2 0 0 0 0 0 0])
+  ("tag" .
+   [8 0 0])
+  (":field" .
+   [5 0 0 0 0 0])
+  ("types" .
+   [6 0 0 0 0])
+  ("suggestions-tag" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lawyers-type" .
+   [1 0 0 0 0 0 0 0 1 0 0 0])
+  ("education-type" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("agents-type" .
+   [1 0 0 0 0 0 0 1 0 0 0])
+  ("neighbourhoods-type" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0])
+  ("developers-type" .
+   [3 0 0 0 0 0 0 0 0 0 0 1 2 0 0])
+  ("developers" .
+   [1 0 0 0 0 2 0 0 0 0])
+  ("projects-type" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("settlements-type" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  (":index" .
+   [1 0 0 0 0 0])
+  ("msearch-query" .
+   [2 0 0 2 2 0 1 1 0 0 0 0 0])
+  ("type->suggest-field" .
+   [0 0 0 0 0 0 3 1 0 0 1 0 1 0 0 0 0 0 0])
+  ("suggest-field" .
+   [14 0 0 0 1 0 0 0 0 3 0 2 0])
+  ("type->path" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("endpoint" .
+   [1 0 0 0 0 0 0 0])
+  ("elastic-host" .
+   [2 0 0 0 0 0 0 0 1 0 0 0])
+  (":host" .
+   [1 0 0 0 0])
+  (":elastic" .
+   [1 0 0 0 0 0 0 0])
+  ("type-name" .
+   [12 0 0 0 0 0 0 1 0])
+  ("h-no-helper" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("street-regex" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("clojure" .
+   [1 0 0 0 0 0 0])
+  ("search-query" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("street->id" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("_id" .
+   [10 0 0])
+  ("first-option" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  (":_id" .
+   [9 0 0 0])
+  ("bu/bulk-index" .
+   [3 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("to-bulk" .
+   [1 0 0 0 0 0 0])
+  ("bulk" .
+   [6 0 0 0])
+  ("send-bulk*" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("send-bulk" .
+   [8 0 0 0 0 0 0 0 0])
+  ("bulk-index*" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("madlan2.elastic.utils" .
+   [0 0 0 0 0 0 0 2 3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("config" .
+   [3 0 0 0 0 0])
+  ("zinc.config" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("generate-new-names" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("java.util.Date." .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":last-time-checked" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":filter" .
+   [1 0 0 0 0 0 0])
+  ("e/store" .
+   [2 0 0 0 0 0 0])
+  ("zinc.datasets.entity" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":params" .
+   [2 0 0 0 0 0 0])
+  ("user-id" .
+   [10 0 0 0 0 0 0])
+  ("saved-search" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("j/parse-string-strict" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cheshire.core" .
+   [2 0 0 0 0 1 0 0 0 0 1 0 0])
+  ("data" .
+   [29 0 0 0])
+  ("madlan2.users.saved-search" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":require" .
+   [6 0 0 0 0 0 0 0])
+  ("conditions" .
+   [1 0 0 0 0 1 0 0 0 0])
+  ("deal-type" .
+   [0 0 0 0 1 0 0 0 0])
+  ("f/add-filter-condition" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("extended-filter" .
+   [1 0 0 0 0 0 0 0 0 0 1 1 0 0 0])
+  ("extended-query" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("basic-filter" .
+   [1 0 0 0 0 0 1 1 0 0 0 0])
+  ("bulletin-filter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":deal-types" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("op" .
+   [1 0])
+  ("basic-operators" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("real-estate-type" .
+   [0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0])
+  ("f" .
+   [6])
+  ("mu/->raw" .
+   [1 0 0 0 0 1 0 0])
+  ("->" .
+   [28 0])
+  ("log" .
+   [2 0 0])
+  ("clojure.tools.logging" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("log/error" .
+   [10 0 0 0 0 0 0 0 0])
+  ("mu" .
+   [1 0])
+  ("madlan2.model-utils" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("deal-types" .
+   [9 0 0 0 0 0 0 0 0 0])
+  ("enum->keyword" .
+   [1 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("filter-params" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flt" .
+   [5 0 0])
+  ("prioritize" .
+   [1 0 0 0 0 0 1 1 0 0])
+  ("geometry" .
+   [11 0 0 0 0 1 1 0])
+  ("p2" .
+   [4 0])
+  ("p1" .
+   [4 0])
+  ("fetch-image" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("url" .
+   [7 0 0])
+  (":url" .
+   [3 0 0 0])
+  (":type" .
+   [20 0 0 0 0])
+  ("throw+" .
+   [1 0 0 0 0 0])
+  ("fs/temp-dir" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (".html" .
+   [1 0 0 0 0])
+  (".select" .
+   [1 0 0 0 0 0 0])
+  ("Document" .
+   [1 0 0 0 0 0 0 0])
+  ("document" .
+   [4 0 0 0 0 0 0 0])
+  ("get-updated-tasks" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get-done-tickets" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("days" .
+   [4 0 0 0])
+  ("by-status" .
+   [4 0 1 0 0 0 0 0 0])
+  ("status" .
+   [5 0 0 0 0 0])
+  ("get-updated-tickets" .
+   [0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0])
+  ("cheshire" .
+   [2 0 0 2 1 0 0 0])
+  ("get-interesting-fields" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cheshire/parse-string-strict" .
+   [0 0 0 0 0 0 0 0 0 1 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("description" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  (":id" .
+   [6 0 0])
+  ("s" .
+   [10])
+  ("summary" .
+   [2 0 0 0 0 0 0])
+  ("true" .
+   [43 0 0 0])
+  ("amenities->columns" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("amenities" .
+   [2 0 0 1 1 3 0 0 0])
+  ("body" .
+   [17 0 0 0])
+  ("address" .
+   [12 0 1 0 1 0 0])
+  ("parsed-address" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Date" .
+   [1 0 0 0])
+  (":as" .
+   [41 0 0])
+  ("nil" .
+   [40 0 0])
+  ("canonize-record" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("def" .
+   [167 0 0])
+  ("func" .
+   [4 0 0 0])
+  (":unique-by" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("st" .
+   [29 0])
+  (":job" .
+   [2 0 0 0])
+  (":private" .
+   [6 0 0 0 0 0 0 0])
+  ("j" .
+   [2])
+  (":job-status" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("unique-keys" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ahrefs" .
+   [1 0 0 0 0 0])
+  ("pluto-sources" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("g" .
+   [3])
+  ("log/info" .
+   [8 0 0 0 0 0 0 0])
+  ("links" .
+   [2 0 0 0 0])
+  (".distance" .
+   [1 0 0 0 0 0 0 0 0])
+  ("location" .
+   [7 0 0 0 0 0 0 0])
+  ("ge" .
+   [10 0])
+  ("n" .
+   [8])
+  ("addresses" .
+   [6 0 0 0 0 0 0 0 0])
+  (":keys" .
+   [41 0 0 0 0])
+  ("borough" .
+   [20 0 0 0 1 0 0])
+  ("st-name" .
+   [23 0 0 0 0 0 0])
+  ("query" .
+   [69 0 0 0 0])
+  ("normal-addr-ds-id" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("range-addrs" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("range-addr-ds-id" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("->>" .
+   [79 0 0])
+  ("h-no" .
+   [32 0 0 0])
+  ("h1-p1" .
+   [7 0 0 0 0])
+  ("h1-p2" .
+   [5 0 0 0 0])
+  ("h2-p1" .
+   [6 0 0 0 0])
+  ("h2-p2" .
+   [5 0 0 0 0])
+  ("h" .
+   [5])
+  ("e" .
+   [10])
+  ("if" .
+   [70 0])
+  ("in" .
+   [27 0])
+  ("expand-queens-range" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":else" .
+   [3 0 0 0 0])
+  ("expand" .
+   [1 0 0 0 0 0])
+  ("expanded" .
+   [4 0 0 0 0 0 0 0])
+  ("expand-house-num" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("no" .
+   [14 0])
+  ("Integer/parseInt" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("c" .
+   [7])
+  ("try" .
+   [4 0 0])
+  ("catch" .
+   [3 0 0 0 0])
+  ("Exception" .
+   [3 0 0 0 0 0 0 0 0])
+  ("expand-street" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get-holes" .
+   [2 0 0 0 0 0 0 0 0])
+  ("house-numbers" .
+   [12 0 0 0 0 1 0 0 0 0 0 0 1])
+  ("current" .
+   [8 0 0 0 0 0 0])
+  ("result" .
+   [29 0 0 0 0 0])
+  ("recur" .
+   [7 0 0 0 0])
+  ("r" .
+   [9])
+  ("res" .
+   [17 0 0])
+  ("get-street-holes" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("%1" .
+   [2 0])
+  ("current-count" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("holes" .
+   [1 0 0 0 0])
+  ("t" .
+   [5])
+  ("row" .
+   [5 0 0])
+  (":" .
+   [7])
+  (":location" .
+   [2 0 0 0 0 0 0 0 0])
+  ("geocode" .
+   [1 0 0 0 0 0 0])
+  ("clojure.string/replace" .
+   [7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("madlan.geo.geocoding-service" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gs" .
+   [1 0])
+  ("do" .
+   [15 0])
+  (":status" .
+   [4 0 0 0 0 0 0])
+  ("find-location" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("find-location*" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("css-prefix" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("template" .
+   [4 0 0 0 0 0 0 0])
+  ("attribute-regex" .
+   [0 0 0 0 0 0 0 0 0 1 1 1 0 0 0])
+  ("regex" .
+   [5 0 0 0 0])
+  ("text" .
+   [22 0 0 0])
+  ("replacement" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("replace-with-regex" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("instance-regex" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("css-prefix-normal" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":refer" .
+   [11 0 0 0 0 0])
+  ("send-mail!" .
+   [2 0 0 0 0 0 0 0 0 1])
+  ("false" .
+   [32 0 0 0 0])
+  (".getTime" .
+   [1 0 0 0 0 0 0 0])
+  ("email" .
+   [5 0 0 0 0])
+  ("send-mail" .
+   [1 0 0 0 0 0 0 0 0])
+  ("__id__" .
+   [1 0 0 0 0 0])
+  ("bulletins" .
+   [3 0 0 0 0 0 0 0 0])
+  ("search" .
+   [1 0 0 0 0 0])
+  ("args" .
+   [1 0 0 0])
+  (":all" .
+   [7 0 0 0])
+  ("zinc.elastic.core" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("el" .
+   [2 0])
+  ("clj-http.client" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("client" .
+   [1 0 0 0 0 0])
+  ("chesh" .
+   [3 0 0 0 0])
+  ("se" .
+   [42 0])
+  ("settlement" .
+   [12 0 0 1 0 0 0 3 0 0])
+  ("a" .
+   [7])
+  ("beta-addresses" .
+   [1 0 0 0 0 1 0 1 1 0 0 0 0 0])
+  ("street" .
+   [26 0 0 0 0 0])
+  (".street" .
+   [3 0 0 0 0 0 0])
+  (".settlement" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  (".address" .
+   [1 0 0 0 0 0 0 0])
+  ("an" .
+   [5 0])
+  ("clojure.string/split" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("space-hyphen" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("space-regex" .
+   [1 0 0 0 0 0 0 0 1 0 0])
+  ("madlan2.elastic.server" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":form-params" .
+   [0 0 0 0 0 0 3 0 0 0 0 0])
+  ("req" .
+   [18 0 0])
+  ("get-address-suggestions" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get-address-suggestions-for-query" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("fuzzy?" .
+   [13 0 0 0 1 0])
+  ("elastic-response->suggestions" .
+   [0 0 0 0 2 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":_source" .
+   [9 0 0 0 0 0 0 0])
+  (":address" .
+   [1 0 0 0 0 0 0 0])
+  ("not-empty" .
+   [0 0 0 0 0 0 0 1 1])
+  ("suggestions" .
+   [18 0 0 0 1 1 0 0 0 0 6])
+  ("suggestion" .
+   [42 0 0 0 0 0 0 0 0 0])
+  (":settlement" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  (":street" .
+   [2 0 0 0 0 0 0])
+  ("check-beta-address" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  (".+" .
+   [1 0])
+  ("bad-regex" .
+   [0 0 0 0 1 0 0 0 0])
+  ("remove-bad-chars" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("response" .
+   [16 0 0 0 0 1 0 0])
+  ("field" .
+   [13 0 0 0 0])
+  ("suggest-body" .
+   [1 0 0 0 0 0 0 0 2 0 1 0])
+  (":suggest" .
+   [5 0 0 0 0 0 0 0])
+  ("global-index" .
+   [1 0 0 1 1 0 1 1 0 0 0 0])
+  ("suggest" .
+   [7 0 0 0 0 0 0])
+  ("b" .
+   [3])
+  ("beta-address-query" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("addresses-type" .
+   [2 0 0 0 0 0 0 0 0 0 5 0 0 0])
+  ("parse-elastic-response" .
+   [0 0 0 0 0 0 0 0 2 3 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("s/parse-elastic-response" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":responses" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("s/elastic-response->suggestions" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("existing" .
+   [9 0 0 0 0 0 0 0])
+  ("msearch-suggest-query" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("with-query" .
+   [0 0 0 0 0 1 1 0 0 0])
+  (":query" .
+   [8 0 0 0 0 0])
+  ("parse-beta-address" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("parsed" .
+   [2 0 0 0 0 0])
+  ("streets" .
+   [2 0 0 0 0 0 0])
+  ("bulk-index" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("get-gov-streets" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("address-exists?" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("get-beta-streets" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("clojure.string/trim" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0])
+  ("el/post" .
+   [2 0 0 0 0 0 0])
+  ("fuzzy" .
+   [3 0 0 0 0])
+  ("exact" .
+   [7 0 0 0 0])
+  ("parse-msearch-response" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("group-by" .
+   [0 0 0 1 0 0 0 0])
+  ("fuzzy-query" .
+   [2 0 0 0 0 0 0 1 0 0 0])
+  ("exact-query" .
+   [2 0 0 0 0 0 1 0 0 0 0])
+  ("components" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("common-street-component" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("clojure.string/join" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("normalized-street" .
+   [0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("street-suggestions" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("info" .
+   [4 0 0 0])
+  ("suggestion-data" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 1 4 0])
+  ("neighbourhoods" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("education" .
+   [2 0 0 0 0 0 0 0 0])
+  ("site-type" .
+   [1 0 0 0 0 0 0 0 0])
+  (":import" .
+   [2 0 0 0 0 0 0])
+  ("Logic" .
+   [1 0 0 0 0])
+  ("Logic/getResidenceProjectsManager" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("projects" .
+   [3 0 0 0 0 0 0 0])
+  ("residence-manager" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("url-encode" .
+   [1 0 0 0 1 0 4 0 0 0])
+  ("area-id" .
+   [3 0 0 0 0 0 0])
+  ("ZoneSummary" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("PriceIndexes" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("ZoneResolution" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("ZoneResolution/city" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("resolution" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("String" .
+   [10 0 0 0 0 0])
+  ("RealEstateAgentsManager" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("re-agents-manager" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("._state" .
+   [1 0 0 0 0 0 0])
+  ("id->agent" .
+   [0 0 0 0 0 1 0 0 0])
+  ("id->office" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("office" .
+   [3 0 0 0 0 0])
+  ("agents" .
+   [2 0 0 0 0 0])
+  ("agents-raw" .
+   [1 0 0 0 0 0 0 0 0 1])
+  ("suggestion->type" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("suggest-data*" .
+   [2 0 0 0 0 0 1 0 0 0 1 0 0])
+  ("suggestion->id" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("process-suggest-data" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ZoneUtils" .
+   [0 0 0 0 1 0 0 0 0])
+  ("settlements" .
+   [7 0 0 0 0 0 0 0 0 0 0])
+  ("without-h-no" .
+   [1 0 0 0 1 0 0 0 0 0 0 0])
+  ("house" .
+   [2 0 0 0 0])
+  (":timeout" .
+   [1 0 0 0 0 0 0 0])
+  (":channel" .
+   [1 0 0 0 0 0 0 0])
+  ("chunk-data" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("el/get" .
+   [3 0 0 0 0 0])
+  ("path" .
+   [24 0 0 0])
+  ("chunk-query" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("chunk-retrieve" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("gu" .
+   [2 0])
+  ("google-geocode-address" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("settlement->location" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("google" .
+   [7 0 0 0 0 0])
+  ("google-location" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("elastic-location" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("elastic" .
+   [5 0 0 0 0 0 0])
+  ("same-settlement?" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("analyzed" .
+   [4 0 0 0 0 0 0 0])
+  ("u" .
+   [2])
+  ("msearch" .
+   [1 0 0 0 0 0 0])
+  ("from-elastic" .
+   [4 0 0 0 0 0 1 1 0 0 1 0])
+  (":document" .
+   [2 0 0 0 0 0 0 0 0])
+  ("->doc" .
+   [4 0 0 0 0])
+  ("madlan2.autocomplete.settlements" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get-settlement-incremental-suggestions" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("settlement-suggestions" .
+   [8 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("components->suggestions" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("all-suggestions" .
+   [2 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("update-settlement" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("bu/bulk-update" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("index-settlements" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("index-settlements*" .
+   [5 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("get-settlements" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("update-bulk" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("headers" .
+   [9 0 0 0 0 0 0])
+  (":body" .
+   [1 0 0 0 0])
+  (":headers" .
+   [1 0 0 0 0 0 0 0])
+  ("uri" .
+   [9 0 0])
+  ("request" .
+   [3 0 0 0 0 0 0])
+  ("signer" .
+   [1 0 0 0 0 0])
+  ("method" .
+   [5 0 0 0 0 0])
+  ("DefaultRequest" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("AWS4Signer." .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("core" .
+   [1 0 0 0])
+  ("delete" .
+   [1 0 0 0 0 0])
+  ("send-to-elastic" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("http/delete" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("HttpMethod" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (".setResourcePath" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("resource" .
+   [8 0 0 0 0 0 0 0])
+  ("query-string" .
+   [4 0 0 0 0 0 1 1 0 0 0 0])
+  ("form-decode" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  ("parameters" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("clojure.string" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("query-string-separator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("parameter" .
+   [0 0 0 0 0 0 1 0 0])
+  ("parameters-separator" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":resource" .
+   [1 0 0 0 0 0 0 0 0])
+  ("destruct-path" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("left-to-process" .
+   [0 0 0 0 0 1 0 0 0 0 0 1 0 1 0])
+  ("left-to-right" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("clause" .
+   [3 0 0 0 0 0])
+  ("clauses" .
+   [5 0 0 0 0 0 0])
+  ("l" .
+   [4])
+  ("elastic-post" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("search-path" .
+   [0 0 0 0 0 0 0 0 0 1 1])
+  ("parse-search-response" .
+   [0 0 0 0 0 0 0 0 1 0 2 0 1 0 0 0 0 0 0 0 0])
+  ("must" .
+   [2 0 0 0])
+  ("match" .
+   [1 0 0 0 0])
+  ("must-clause" .
+   [0 0 0 0 0 0 2 1 0 0 0])
+  ("settings" .
+   [2 0 0 0 0 0 0 0])
+  ("some?" .
+   [2 0 0 0 0])
+  ("rest-clauses" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("first-clause" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("bool" .
+   [2 0 0 0])
+  ("parsed-response" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("callback" .
+   [3 0 0 0 1 0 0 0])
+  ("excluded-datasets" .
+   [0 0 0 0 0 0 0 0 3 1 0 0 0 1 0 0 0])
+  ("get-simple-suggestions" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":suggestions" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("go" .
+   [1 0])
+  ("put!" .
+   [1 0 0 0])
+  ("<!" .
+   [1 0])
+  ("parts" .
+   [6 0 0 0 0])
+  ("with-id?" .
+   [3 0 0 0 0 0 0 0])
+  (":_type" .
+   [2 0 0 0 0 0])
+  ("testing" .
+   [1 0 0 0 0 0 0])
+  ("query-elastic" .
+   [0 0 0 0 0 0 2 1 0 0 0 0 0])
+  ("fu/levenshtein" .
+   [0 0 0 0 0 2 0 1 0 0 0 0 0 0])
+  ("s1" .
+   [3 0])
+  ("s2" .
+   [3 0])
+  (":name" .
+   [7 0 0 0 0])
+  ("compare-suggestions" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("user" .
+   [1 0 0 0])
+  ("gu/xy->point" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("__raw__" .
+   [3 0 0 0 0 0 0])
+  (".getLng" .
+   [1 0 0 0 0 0 0])
+  ("ap" .
+   [3 0])
+  (".ap" .
+   [1 0 0])
+  ("gu/latlng->point" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gu/xy->coordinate" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get-bulletins-for-search" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("get-bulletin-location" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("place" .
+   [3 0 0 0 0])
+  ("lat" .
+   [5 0 0])
+  ("lon" .
+   [8 0 0])
+  (":must" .
+   [1 0 0 0 0])
+  ("search-results" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":payload" .
+   [1 0 0 0 0 0 0 0])
+  ("geo/xy->point" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("geo/geometry->lnglat" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("geo/transform-wgs84geometry" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("srid" .
+   [1 0 0 0])
+  (":asc" .
+   [1 0 0 0])
+  (":match_all" .
+   [0 0 0 0 0 0 1 0 0 0])
+  (":size" .
+   [1 0 0 0 0])
+  ("size" .
+   [1 0 0 0])
+  ("geo-distance-sort" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alt-names" .
+   [1 0 0 0 0 0 0 0 0])
+  ("add" .
+   [1 0 0])
+  ("cardinal-direction-streets" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cardinal-direction-abbreviation" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("address-variations" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("address-variations-helper" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("wcd" .
+   [1 0 0])
+  ("cda" .
+   [2 0 0])
+  ("not-found" .
+   [3 0 0 0 0 0 0 0 0])
+  ("from-p2b" .
+   [3 0 0 0 0 0 0 0])
+  ("no2" .
+   [2 0 0])
+  ("no1" .
+   [1 0 0])
+  ("log/debug" .
+   [1 0 0 0 0 0 0 0 0])
+  (":geometries" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("defplace-ds-id" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("new-york" .
+   [3 0 0 0 0 0 0 0])
+  ("spit-data!" .
+   [3 0 0 0 0 0 0 1 0 0])
+  ("init-dataset!" .
+   [0 0 0 0 0 0 0 2 0 1 0 0 0])
+  ("stabilized-buildings-location" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":metadata" .
+   [2 0 0 0 0 0 0 0 0])
+  ("metadata" .
+   [1 0 0 0 0 0 1 0])
+  ("insight-gen" .
+   [4 0 0 0 0 0 0 0 1 0 0])
+  (":insight-record-id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("insight-record-id" .
+   [0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0])
+  ("as/<!" .
+   [2 0 0 0 0])
+  ("place->insights" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("place->insights*" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nci-channel" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("cc-channel" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("complement-s3-insights" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("from-s3" .
+   [2 0 0 0 0 0 0])
+  ("record-ids" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("cache-version" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("should-not-cache-insigths" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cached?" .
+   [2 0 0 0 0 0 0])
+  ("complement-s3-insights-filter" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cached-insights" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("us" .
+   [6 0])
+  ("tracker/unsubscribe-group" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":physical-id" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  (":<>" .
+   [1 0 0])
+  ("saf-street-name" .
+   [0 0 0 3 4 3 1 0 2 0 0 0 0 0 0])
+  ("clojure.string/lower-case" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("tl" .
+   [3 0])
+  ("index" .
+   [1 0 0 0 0])
+  ("prepare-address-document" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  (":saf-street-name" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("units-res" .
+   [8 0 0 0 0 0 0 0 0])
+  ("added-dwel" .
+   [0 0 0 0 0 0 0 2 1 0])
+  (":height" .
+   [3 0 0 0 0 0 0])
+  ("height" .
+   [2 0 0 0 0 0])
+  ("proposed-height" .
+   [0 0 0 0 0 0 0 0 0 4 0 0 0 0 0])
+  ("proposed-no-of-stories" .
+   [0 0 0 0 0 1 1 5 2 0 0 1 1 0 0 0 0 0 1 0 0 0])
+  (":pseudo-status" .
+   [6 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pseudo-status" .
+   [1 0 0 1 0 0 1 2 2 0 0 0 0])
+  ("com.vividsolutions.jts.io" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("com.vividsolutions.jts.geom.Geometry" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("com.vividsolutions.jts.geom.Point" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("last-permit-issue-date" .
+   [0 0 0 0 0 0 0 3 2 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":existing-units" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 1 0 0])
+  ("process-pluto-with-jobs" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0])
+  ("with-jobs" .
+   [1 0 0 0 0 0 0 0 0])
+  ("pluto-with-jobs" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":join-type" .
+   [2 0 0 0 0 0 0 0 0 0])
+  (":left" .
+   [1 0 0 0 0])
+  ("nu" .
+   [11 0])
+  ("num-floors" .
+   [5 0 0 0 0 2 2 2 0 0])
+  ("c/to-long" .
+   [2 0 0 0 0 0 0 0 0])
+  ("Integer" .
+   [1 0 0 0 0 0 0])
+  ("job-type" .
+   [5 0 0 0 0 0 0 0])
+  (":job-type" .
+   [3 0 0 0 0 0 0 0 0])
+  (":or" .
+   [3 0 0])
+  (":col/proposed-occupancy" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("<=" .
+   [2 0])
+  ("select" .
+   [2 0 0 0 0 0])
+  ("pwj" .
+   [5 0 0])
+  (":boro-code" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":proposed-occupancy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":constructing-units" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("initial-object" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":col/pseudo-status" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0])
+  ("o" .
+   [1])
+  ("pseudo" .
+   [0 0 0 1 0 0])
+  ("under-construction-status" .
+   [0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("filing-status" .
+   [0 0 0 0 1 1 0 1 0 0 0 0 0])
+  ("co-status" .
+   [3 0 0 0 2 0 0 0 0])
+  (":existing" .
+   [9 0 0 0 0 0 0 0 0])
+  (":constructing" .
+   [2 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("item-constructing" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("constructing" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  (":jobs-number" .
+   [4 0 0 0 0 0 0 0 0 0 0 0])
+  ("jobs-number" .
+   [5 0 0 0 0 0 0 0 0 0 0])
+  (":pseudo-sta" .
+   [0 0 0 0 2 0 0 0 0 0 0])
+  (":option" .
+   [1 0 0 0 0 0 0])
+  ("jobs" .
+   [1 0 0 0])
+  (":num-floors" .
+   [3 0 0 0 0 2 1 1 0 0 0])
+  ("existing-units" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("constructing-units" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("restaurants" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("join-datasets" .
+   [1 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("yelp-ds" .
+   [1 0 0 0 0 0 0])
+  ("factual-restaurants" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("factual-core" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("pluto" .
+   [5 0 0 0 0])
+  ("existing-d" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("rrr" .
+   [3 0 0])
+  (":col/bbl" .
+   [2 0 0 0 0 0 0 0])
+  (":right" .
+   [1 0 0 0 0 0])
+  ("pluto-with-permits" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 0])
+  ("all-floors" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("inc-floors" .
+   [0 0 0 0 0 0 1 4 0 0])
+  ("filing" .
+   [1 0 0 0 0 0])
+  ("bbl" .
+   [3 0 0])
+  ("pl" .
+   [4 0])
+  ("permit" .
+   [7 0 0 0 0 0])
+  ("conf" .
+   [1 0 0 0])))
